@@ -1,0 +1,95 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mmeye\\source\\repos\\EcomCockpit\\EcomCockpit.Utils\\EcomCockpit.Utils.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mmeye\\source\\repos\\EcomCockpit\\EcomCockpit.Utils\\EcomCockpit.Utils.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mmeye\\source\\repos\\EcomCockpit\\EcomCockpit.Utils\\EcomCockpit.Utils.csproj",
+        "projectName": "EcomCockpit.Utils",
+        "projectPath": "C:\\Users\\mmeye\\source\\repos\\EcomCockpit\\EcomCockpit.Utils\\EcomCockpit.Utils.csproj",
+        "packagesPath": "C:\\Users\\mmeye\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mmeye\\source\\repos\\EcomCockpit\\EcomCockpit.Utils\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mmeye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\Workspace\\Helpers.Net-master\\Helpers.Net-master\\Src\\Helpers.Net\\Helpers.Net.4.5.csproj": {
+                "projectPath": "D:\\Workspace\\Helpers.Net-master\\Helpers.Net-master\\Src\\Helpers.Net\\Helpers.Net.4.5.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "Microsoft.CodeAnalysis.FxCopAnalyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.9.8, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Workspace\\Helpers.Net-master\\Helpers.Net-master\\Src\\Helpers.Net\\Helpers.Net.4.5.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Workspace\\Helpers.Net-master\\Helpers.Net-master\\Src\\Helpers.Net\\Helpers.Net.4.5.csproj",
+        "projectName": "Helpers.Net.4.5",
+        "projectPath": "D:\\Workspace\\Helpers.Net-master\\Helpers.Net-master\\Src\\Helpers.Net\\Helpers.Net.4.5.csproj"
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    }
+  }
+}

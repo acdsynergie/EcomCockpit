@@ -1,0 +1,208 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mmeye\\source\\repos\\EcomCockpit\\EcomCockpit.Web\\EcomCockpit.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mmeye\\source\\repos\\EcomCockpit\\EcomCockpit.Utils\\EcomCockpit.Utils.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mmeye\\source\\repos\\EcomCockpit\\EcomCockpit.Utils\\EcomCockpit.Utils.csproj",
+        "projectName": "EcomCockpit.Utils",
+        "projectPath": "C:\\Users\\mmeye\\source\\repos\\EcomCockpit\\EcomCockpit.Utils\\EcomCockpit.Utils.csproj",
+        "packagesPath": "C:\\Users\\mmeye\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mmeye\\source\\repos\\EcomCockpit\\EcomCockpit.Utils\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mmeye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\Workspace\\Helpers.Net-master\\Helpers.Net-master\\Src\\Helpers.Net\\Helpers.Net.4.5.csproj": {
+                "projectPath": "D:\\Workspace\\Helpers.Net-master\\Helpers.Net-master\\Src\\Helpers.Net\\Helpers.Net.4.5.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "Microsoft.CodeAnalysis.FxCopAnalyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.9.8, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mmeye\\source\\repos\\EcomCockpit\\EcomCockpit.Web\\EcomCockpit.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mmeye\\source\\repos\\EcomCockpit\\EcomCockpit.Web\\EcomCockpit.Web.csproj",
+        "projectName": "EcomCockpit.Web",
+        "projectPath": "C:\\Users\\mmeye\\source\\repos\\EcomCockpit\\EcomCockpit.Web\\EcomCockpit.Web.csproj",
+        "packagesPath": "C:\\Users\\mmeye\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mmeye\\source\\repos\\EcomCockpit\\EcomCockpit.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mmeye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\mmeye\\source\\repos\\EcomCockpit\\EcomCockpit.Utils\\EcomCockpit.Utils.csproj": {
+                "projectPath": "C:\\Users\\mmeye\\source\\repos\\EcomCockpit\\EcomCockpit.Utils\\EcomCockpit.Utils.csproj"
+              },
+              "C:\\Users\\mmeye\\source\\repos\\EcomCockpit\\EcomCockpit.WooClient\\EcomCockpit.WooClient.csproj": {
+                "projectPath": "C:\\Users\\mmeye\\source\\repos\\EcomCockpit\\EcomCockpit.WooClient\\EcomCockpit.WooClient.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "DalSoft.RestClient": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Postman": {
+              "target": "Package",
+              "version": "[1.0.2.4, )"
+            },
+            "RestClient": {
+              "target": "Package",
+              "version": "[2.5.0.6, )"
+            },
+            "WooCommerceNET": {
+              "target": "Package",
+              "version": "[0.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mmeye\\source\\repos\\EcomCockpit\\EcomCockpit.WooClient\\EcomCockpit.WooClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mmeye\\source\\repos\\EcomCockpit\\EcomCockpit.WooClient\\EcomCockpit.WooClient.csproj",
+        "projectName": "EcomCockpit.WooClient",
+        "projectPath": "C:\\Users\\mmeye\\source\\repos\\EcomCockpit\\EcomCockpit.WooClient\\EcomCockpit.WooClient.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Workspace\\Helpers.Net-master\\Helpers.Net-master\\Src\\Helpers.Net\\Helpers.Net.4.5.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Workspace\\Helpers.Net-master\\Helpers.Net-master\\Src\\Helpers.Net\\Helpers.Net.4.5.csproj",
+        "projectName": "Helpers.Net.4.5",
+        "projectPath": "D:\\Workspace\\Helpers.Net-master\\Helpers.Net-master\\Src\\Helpers.Net\\Helpers.Net.4.5.csproj"
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    }
+  }
+}

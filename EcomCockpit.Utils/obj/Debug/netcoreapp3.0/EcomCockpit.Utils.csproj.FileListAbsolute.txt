@@ -1,0 +1,11 @@
+C:\Users\mmeye\source\repos\EcomCockpit\EcomCockpit.Utils\bin\Debug\netcoreapp3.0\EcomCockpit.Utils.deps.json
+C:\Users\mmeye\source\repos\EcomCockpit\EcomCockpit.Utils\bin\Debug\netcoreapp3.0\EcomCockpit.Utils.dll
+C:\Users\mmeye\source\repos\EcomCockpit\EcomCockpit.Utils\bin\Debug\netcoreapp3.0\EcomCockpit.Utils.pdb
+C:\Users\mmeye\source\repos\EcomCockpit\EcomCockpit.Utils\bin\Debug\netcoreapp3.0\Helpers.dll
+C:\Users\mmeye\source\repos\EcomCockpit\EcomCockpit.Utils\bin\Debug\netcoreapp3.0\Helpers.pdb
+C:\Users\mmeye\source\repos\EcomCockpit\EcomCockpit.Utils\obj\Debug\netcoreapp3.0\EcomCockpit.Utils.csprojAssemblyReference.cache
+C:\Users\mmeye\source\repos\EcomCockpit\EcomCockpit.Utils\obj\Debug\netcoreapp3.0\EcomCockpit.Utils.AssemblyInfoInputs.cache
+C:\Users\mmeye\source\repos\EcomCockpit\EcomCockpit.Utils\obj\Debug\netcoreapp3.0\EcomCockpit.Utils.AssemblyInfo.cs
+C:\Users\mmeye\source\repos\EcomCockpit\EcomCockpit.Utils\obj\Debug\netcoreapp3.0\EcomCockpit.Utils.csproj.CopyComplete
+C:\Users\mmeye\source\repos\EcomCockpit\EcomCockpit.Utils\obj\Debug\netcoreapp3.0\EcomCockpit.Utils.dll
+C:\Users\mmeye\source\repos\EcomCockpit\EcomCockpit.Utils\obj\Debug\netcoreapp3.0\EcomCockpit.Utils.pdb
